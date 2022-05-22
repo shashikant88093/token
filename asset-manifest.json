@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/shashikant88093.github.io/token/static/css/main.d6311ef1.css",
+    "main.js": "/shashikant88093.github.io/token/static/js/main.12a7b54e.js",
+    "static/js/787.9d984562.chunk.js": "/shashikant88093.github.io/token/static/js/787.9d984562.chunk.js",
+    "static/media/token.png": "/shashikant88093.github.io/token/static/media/token.59a58dfc346fdf40d3bd.png",
+    "index.html": "/shashikant88093.github.io/token/index.html",
+    "main.d6311ef1.css.map": "/shashikant88093.github.io/token/static/css/main.d6311ef1.css.map",
+    "main.12a7b54e.js.map": "/shashikant88093.github.io/token/static/js/main.12a7b54e.js.map",
+    "787.9d984562.chunk.js.map": "/shashikant88093.github.io/token/static/js/787.9d984562.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6311ef1.css",
+    "static/js/main.12a7b54e.js"
+  ]
+}
